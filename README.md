@@ -14,6 +14,7 @@ I am currently learning:
 
 ## Table of Contents
 
+- [GitHub Badges](#github-badges)
 - [Social Media](#social-media)
 - [Wikis](#wikis)
 - [Repositories](#repositories)
@@ -23,6 +24,16 @@ I am currently learning:
   - [Repositories for Linux](#repositories-for-linux)
   - [Miscellaneous Repositories](#miscellaneous-repositories)
   - [Empty Repositories](#empty-repositories)
+
+## GitHub Badges
+
+[![Douglas' github trophy](https://github-profile-trophy.vercel.app/?username=dfhawthorne&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Douglas' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfhawthorne&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Douglas' github stats](https://github-readme-stats.vercel.app/api?username=dfhawthorne&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Douglas' github streak](https://github-readme-streak-stats.herokuapp.com/?user=dfhawthorne&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Social Media
 
