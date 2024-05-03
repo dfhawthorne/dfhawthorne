@@ -115,5 +115,5 @@ The following repositories are unclassified:
 These repositories are currently empty, pending use in the future:
 
 - [fleet_management](https://github.com/dfhawthorne/fleet_management)
-- [sql-ocm23c](https://github.com/dfhawthorne/sql-ocm23c)
-- [ansible-ocm23c](https://github.com/dfhawthorne/ansible-ocm23c)
+- [sql-ocm23c](https://github.com/dfhawthorne/sql-ocm23ai)
+- [ansible-ocm23c](https://github.com/dfhawthorne/ansible-ocm23ai)
