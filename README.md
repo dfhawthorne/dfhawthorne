@@ -22,6 +22,7 @@ I am currently learning:
   - [Repositories with Ansible](#repositories-with-ansible)
   - [Repositories with SQL Scripts](#repositories-with-sql-scripts)
   - [Repositories for Linux](#repositories-for-linux)
+  - [Repositories for Oracle Cloud Infrastructure (OCI)](#repositories-for-oracle-cloud-infrastructure-oci)
   - [Miscellaneous Repositories](#miscellaneous-repositories)
   - [Empty Repositories](#empty-repositories)
 
@@ -101,12 +102,18 @@ The following repositories for the study of Linux encompassing C, BASH, and Asse
 - [Linux_Programming_Interface](https://github.com/dfhawthorne/Linux_Programming_Interface)
 - [local_utilities](https://github.com/dfhawthorne/local_utilities)
 
+### Repositories for Oracle Cloud Infrastructure (OCI)
+
+The following repositories split OCI scripts by language:
+
+- [ansible-oci-scripts](https://github.com/dfhawthorne/ansible-oci-scripts)
+- [terraform-oci-scripts](https://github.com/dfhawthorne/terraform-oci-scripts)
+
 ### Miscellaneous Repositories
 
 The following repositories are unclassified:
 
 - [Data_Model_Resource_Book](https://github.com/dfhawthorne/Data_Model_Resource_Book)
-- [terraform-oci-scripts](https://github.com/dfhawthorne/terraform-oci-scripts)
 - [tex_projects](https://github.com/dfhawthorne/tex_projects)
 - [tla](https://github.com/dfhawthorne/tla)
 
