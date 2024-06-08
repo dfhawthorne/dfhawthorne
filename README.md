@@ -71,10 +71,10 @@ I have classified my repositories by language.
 I have forked several repositories and modified them for my personal use:
 
 - [Dynamic Oracle Performance Analytics](https://github.com/dfhawthorne/dynamic-oracle-perf-analytics/tree/personal_use)
-- [HammerDB](https://github.com/dfhawthorne/HammerDB/tree/cdb_connection)
+- [HammerDB](https://github.com/dfhawthorne/HammerDB)
 - [Learn to Program with Assembly](https://github.com/dfhawthorne/learn-to-program-w-assembly)
 - [Oracle Database Transactions and Locking Revealed](https://github.com/dfhawthorne/oracle-db-transactions-locking-revealed/tree/personal_use)
-- [SAR Tools](https://github.com/dfhawthorne/sar-tools/tree/my-new-fixes)
+- [SAR Tools](https://github.com/dfhawthorne/sar-tools)
 
 ### Repositories with Ansible
 
@@ -83,6 +83,7 @@ The following repositories are mainly Ansible playbooks along with Jinja2 templa
 - [ansible-ocm12c](https://github.com/dfhawthorne/ansible-ocm12c)
 - [demos](https://github.com/dfhawthorne/demos)
 - [goldengate](https://github.com/dfhawthorne/goldengate)
+- [OCI_CNP](https://github.com/dfhawthorne/OCI_CNP)
 - [oracle-db-build](https://github.com/dfhawthorne/oracle-db-build)
 - [other_db_builds](https://github.com/dfhawthorne/other_db_builds)
 - [xen_server_farm](https://github.com/dfhawthorne/xen_server_farm)
@@ -107,6 +108,7 @@ The following repositories for the study of Linux encompassing C, BASH, and Asse
 The following repositories split OCI scripts by language:
 
 - [ansible-oci-scripts](https://github.com/dfhawthorne/ansible-oci-scripts)
+- [OCI_CNP](https://github.com/dfhawthorne/OCI_CNP)
 - [terraform-oci-scripts](https://github.com/dfhawthorne/terraform-oci-scripts)
 
 ### Miscellaneous Repositories
