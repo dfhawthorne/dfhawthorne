@@ -16,6 +16,7 @@ I am currently learning:
 
 - [GitHub Badges](#github-badges)
 - [Social Media](#social-media)
+- [Industry Accreditations](#industry-accreditations)
 - [Wikis](#wikis)
 - [Repositories](#repositories)
   - [Forked Repositories](#forked-repositories)
@@ -52,6 +53,22 @@ I have resources on the following site that is publicly visible:
 dfhawthorne/dfhawthorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Industry Accreditations
+
+- Oracle Cloud Infrastructure 2024:
+  - Generative AI Certified Professional
+- ITSM20F.EN: IT Service Management Foundation based on ISO/IEC 20000.
+- Oracle 11G:
+  - Oracle 11G Performance Tuning Certified Expert.
+  - Oracle 11G Database Administrator Certified Master.
+  - Oracle 11G Database Administrator Certified Professional.
+- Oracle 10G:
+  - Oracle 10G Database Administrator Certified Master.
+  - Oracle 10G RAC Administrator Certified Expert.
+  - Oracle 10G Database Administrator Certified Professional.
+  - Oracle 10G Managing Oracle on Linux Certified Expert.
+- MySQL 5.0 Database Administrator.
 
 ## Wikis
 
