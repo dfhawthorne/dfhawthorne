@@ -58,6 +58,8 @@ You can click the Preview link to take a look at your changes.
 
 - Oracle Cloud Infrastructure 2024:
   - Generative AI Certified Professional
+- Oracle Cloud Infrastructure 2023:
+  - Certified Foundations Associate
 - ITSM20F.EN: IT Service Management Foundation based on ISO/IEC 20000.
 - Oracle 11G:
   - Oracle 11G Performance Tuning Certified Expert.
