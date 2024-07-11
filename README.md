@@ -11,6 +11,8 @@ I am currently learning:
 - Linux
 - Ansible
 - Terraform
+- Oracle Cloud Infrastructure (OCI)
+- Oracle Autonomous Database
 
 ## Table of Contents
 
