@@ -59,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 ## Industry Accreditations
 
 - Oracle Cloud Infrastructure 2024:
+  - Architect Associate
   - Generative AI Certified Professional
 - Oracle Cloud Infrastructure 2023:
   - Certified Foundations Associate
