@@ -46,6 +46,7 @@ I am currently somewhat active on the following social sites:
 - [LinkedIn](https://www.linkedin.com/in/douglas-hawthorne-b9570b11/)
 - [Mastodon](https://mastodon.social/@dfhawthorne1)
 - [WordPress Blog](https://yaocm.wordpress.com/)
+- [BlueSky](https://bsky.app/profile/dfhawthorne1.bsky.social)
 
 I have resources on the following site that is publicly visible:
 
