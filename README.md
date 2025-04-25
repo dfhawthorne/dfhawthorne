@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am an experienced Database Administrator with a demonstrated history of working in the education management and telecommunication industries. These skills include Performance Tuning, and Oracle Database Administration.
+I am a retired Database Administrator with a demonstrated history of working in the education management and telecommunication industries. These skills include Performance Tuning, and Oracle Database Administration.
 
 I am interested in database self-learning. My main interest is Oracle RDBMS with emerging interest in SQL/Server, MySQL, and PostGreSQL.
 
@@ -28,6 +28,7 @@ I am currently learning:
   - [Repositories for Oracle Cloud Infrastructure (OCI)](#repositories-for-oracle-cloud-infrastructure-oci)
   - [Miscellaneous Repositories](#miscellaneous-repositories)
   - [Empty Repositories](#empty-repositories)
+
 
 ## GitHub Badges
 
@@ -147,5 +148,3 @@ The following repositories are unclassified:
 These repositories are currently empty, pending use in the future:
 
 - [fleet_management](https://github.com/dfhawthorne/fleet_management)
-- [sql-ocm23ai](https://github.com/dfhawthorne/sql-ocm23ai)
-- [ansible-ocm23ai](https://github.com/dfhawthorne/ansible-ocm23ai)
