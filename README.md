@@ -2,17 +2,20 @@
 
 ## Introduction
 
-I am a retired Database Administrator with a demonstrated history of working in the education management and telecommunication industries. These skills include Performance Tuning, and Oracle Database Administration.
+**New Chapter**: Retired & Exploring Indie Game Development
 
-I am interested in database self-learning. My main interest is Oracle RDBMS with emerging interest in SQL/Server, MySQL, and PostGreSQL.
+After a rewarding career, I am now officially retired and embracing a new path as an indie game developer. As someone who thrives working independently, I’m excited to focus on creating open source and free-to-play games—sharing my passion for creativity and technology with a wider community.
+
+My goal is to build unique, accessible experiences that anyone can enjoy, while contributing to the open source ecosystem. I look forward to this solo journey, learning new skills, and giving back to the gaming and developer communities in my own way.
+
+Thank you to everyone who has been part of my professional story so far. Here’s to new adventures and the freedom to create!
 
 I am currently learning:
 
 - Linux
-- Ansible
-- Terraform
-- Oracle Cloud Infrastructure (OCI)
-- Oracle Autonomous Database
+- Godot
+- C
+- Python3
 
 ## Table of Contents
 
